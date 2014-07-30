@@ -1,5 +1,6 @@
 BeamUp
 ======
+I am under a nondisclosure agreement with my employer so I cannot share any information that could allow other to find what the application is suppose to do so it have been stripped from all information not linked to the probleme.
 This is a partial, functionnal executable part of my application for my question on StackOverflow:
 http://stackoverflow.com/posts/25000040/edit
 
